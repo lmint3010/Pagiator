@@ -1,5 +1,6 @@
 # Pagiator
 JavaScript Library - Create custom able Pagination
+Author: Lmint - CyberSkill.tech
 
 ## Usage
 
